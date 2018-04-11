@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523474595 source:c:\users\1511 iron\desktop\faculdade\2 ano\estrutura de dados\listatelefonicasequencial\listatelefonica\lista_telefonica.c
+	"Lista_Telefonica.h"
+
+1523467277 c:\users\1511 iron\desktop\faculdade\2 ano\estrutura de dados\listatelefonicasequencial\listatelefonica\lista_telefonica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1523467286 source:c:\users\1511 iron\desktop\faculdade\2 ano\estrutura de dados\listatelefonicasequencial\listatelefonica\main.c
+	"Lista_Telefonica.h"
+
